@@ -1,3 +1,7 @@
+# data, because it brings the pirates 
+data/
+myenv/ 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
