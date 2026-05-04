@@ -7,7 +7,6 @@ def main():
     print("===========================\n- - - PROGRAM STARTED - - -\n===========================")
     # want big text type shit 
 
-
     # asciichartpy would be cool 
     print("===========================\n- - - PROGRAM  KILLED - - -\n===========================")
 
